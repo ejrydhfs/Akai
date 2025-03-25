@@ -1,2 +1,2 @@
 # Akai
-A flash alternative based on godot and blender's grease pencil
+A flash alternative based on godot and blender's grease pencil. Work in progress.
